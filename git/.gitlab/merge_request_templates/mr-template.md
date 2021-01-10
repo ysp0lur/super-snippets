@@ -1,15 +1,15 @@
-## Pull request checklist
+## Merge request checklist
 
-This PR fulfills the following requirements:
+This MR fulfills the following requirements:
 - Tests for the changes have been added
 - Docs have been reviewed and added / updated
 - Build (`npm run build`) was run locally
 - Build (`npm run dev`) was run locally
 
 
-## Pull request type
+## Merge request type
 
-Type of change this PR introduces:
+Type of change this MR introduces:
 - Bugfix
 - Feature
 - Code style update (formatting, renaming)
